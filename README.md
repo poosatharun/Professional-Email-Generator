@@ -22,7 +22,7 @@ An AI-powered email generator designed to craft personalized, context-aware emai
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/professional-email-generator.git
-   cd professional-email-generator
+   cd Professional-email-generator
    ```  
 2. Install dependencies:  
    ```bash
